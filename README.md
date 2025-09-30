@@ -2,7 +2,7 @@
 Hi, I'm Ryo Kurniawan!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
-<img src="https://visitcount.itsvg.in/api?id=ryo-kurniawan&icon=0&color=9" align='right' alt="ryokurniawan" />
+<img src="https://visitcount.itsvg.in/api?id=ryo-kurniawan&icon=0&color=9" alt="profile views" style="float:right;" />
 
 <br/>
 <p align="center">
